@@ -1,0 +1,16 @@
+{
+  "name": "examplebot",
+  "version": "1.0.0",
+  "description": "Example bots for everyone.",
+  "scripts": {
+    "dev": "cd ./src && node ."
+  },
+  "author": "Vellt",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
